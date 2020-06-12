@@ -1,0 +1,4 @@
+/home/iqr/archive_robot/http_server_client/build/CMakeFiles/edit_cache.dir
+/home/iqr/archive_robot/http_server_client/build/CMakeFiles/http_client.dir
+/home/iqr/archive_robot/http_server_client/build/CMakeFiles/rebuild_cache.dir
+/home/iqr/archive_robot/http_server_client/build/CMakeFiles/http_server.dir

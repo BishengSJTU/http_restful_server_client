@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iqr/archive_robot/http_server_client/http_client.cpp
+http_client.h
+/home/iqr/archive_robot/http_server_client/http_client.h
+iostream
+-
+exception
+-
+
